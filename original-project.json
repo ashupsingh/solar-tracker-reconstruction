@@ -1,0 +1,23 @@
+{
+  "id": "solar-tracker",
+  "name": "Solar panel tracker",
+  "category": "IoT / Energy",
+  "group": "Embedded & IoT",
+  "icon": "leaf",
+  "description": "Dual-axis solar tracker using LDRs to maximize energy efficiency by following the sun.",
+  "detail": "Uses light-dependent resistors to sense sunlight direction and servo motors to adjust a solar panel. Explores automatic solar tracking without claiming a verified efficiency improvement.",
+  "stack": [
+    "Arduino",
+    "LDR Sensors",
+    "Servo Motors",
+    "Solar Panel"
+  ],
+  "status": "Completed",
+  "source": "https://reactportfolio-eosin.vercel.app/",
+  "image": "/projects/solar_tracker.webp",
+  "url": "",
+  "liveUrl": "",
+  "award": "",
+  "featured": false,
+  "evidence": []
+}
